@@ -6,7 +6,7 @@ subtitle: <b>PhD Student</b> at MIT LIDS & CEE
 
 profile: 
   align: right
-  image: JiaruiLi.jpeg
+  image: Jiarui_Li.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Walt Disney World, 2023</p>  
